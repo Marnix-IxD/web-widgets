@@ -1,6 +1,6 @@
 {
     "name": "@mendix/widget-plugin-filtering",
-    "version": "1.0.1",
+    "version": "1.1.0",
     "description": "Filtering API plugin.",
     "license": "Apache-2.0",
     "copyright": "© Mendix Technology BV 2023. All rights reserved.",
